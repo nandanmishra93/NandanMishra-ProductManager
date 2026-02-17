@@ -30,21 +30,24 @@ I specialize in:
 
 ## 📌 Strategic Initiatives Led
 
-### 1️⃣ Enterprise Grid Model & Simulation Platform
-- Defined multi-year product roadmap
-- Led platform modernization initiatives
-- Improved system scalability & performance
-- Enabled enterprise adoption across critical energy workflows
+### 1️⃣ Verizon App Experience & Checkout Optimization
+- Led end-to-end enhancement of app navigation and checkout journey
+- Simplified multi-step checkout into an optimized conversion flow
+- Improved loyalty visibility within the purchase journey
+- Reduced abandonment through UX improvements and real-time validations
+- Increased assisted conversions via pre-sales engagement integration
 
-### 2️⃣ AI-Driven Workflow Optimization
-- Identified automation opportunities using AI/ML
-- Reduced manual operational effort
-- Improved productivity and platform engagement metrics
+### 2️⃣ Loyalty Offers & Customer Engagement Strategy
+- Redesigned loyalty offer placement across digital touchpoints
+- Introduced personalized offers based on usage & engagement signals
+- Increased loyalty interaction and repeat purchases
+- Improved retention by embedding loyalty triggers within checkout flow
 
 ### 3️⃣ SaaS Platform Transformation
 - Re-architected product modules in collaboration with Engineering
 - Improved API reliability & system integrations
 - Increased enterprise customer retention
+- Enhanced performance and scalability of digital commerce platform
 
 ---
 
